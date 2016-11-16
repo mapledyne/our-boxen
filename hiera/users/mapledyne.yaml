@@ -1,0 +1,15 @@
+---
+boxen::personal::homebrew_packages:
+  - pstree
+  - htop
+  - python
+  - python3
+  - gist
+  - fish
+
+boxen::personal::osx_apps:
+  - google-chrome
+
+boxen::personal::projects:
+  - project_a
+  - secret_project
