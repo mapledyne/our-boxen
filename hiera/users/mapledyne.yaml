@@ -9,7 +9,3 @@ boxen::personal::homebrew_packages:
 
 boxen::personal::osx_apps:
   - google-chrome
-
-boxen::personal::projects:
-  - project_a
-  - secret_project
